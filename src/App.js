@@ -24,7 +24,7 @@ function App() {
           Learn React
         </a>
         <p>
-          LEARN DOCKER INSTEAD
+          LEARN DOCKER INSTEAD JUST REACT
         </p>
       </header>
     </div>
