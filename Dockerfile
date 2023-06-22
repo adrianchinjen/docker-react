@@ -12,6 +12,7 @@ RUN npm run build
 
 FROM nginx
 
+# nothing to do with the developers based on my understanding...
 EXPOSE 80
 # copy a file from another phase
 # then specify what phase is that, in this case, the builder phase up
