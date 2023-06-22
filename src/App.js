@@ -21,8 +21,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Docker CI/CD
+          Learn React
         </a>
+        <p>
+          LEARN DOCKER INSTEAD
+        </p>
       </header>
     </div>
   );
