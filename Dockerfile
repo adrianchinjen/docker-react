@@ -12,6 +12,7 @@ RUN npm run build
 
 FROM nginx
 
+EXPOSE 80
 # copy a file from another phase
 # then specify what phase is that, in this case, the builder phase up
 # then specify where to copy the file inside the nginx that we are putting together

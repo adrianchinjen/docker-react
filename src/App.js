@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Cia Chinjen the cutest ever!
+          Princess Cia Chinjen the cutest ever!
         </p>
         <p>
           Ian | Chi
